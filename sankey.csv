@@ -1,0 +1,133 @@
+source,target,value,colour
+First Time Fix,NA,0,#0ABAFA
+First Time Fix,Score 10,24,#0ABAFA
+First Time Fix,Score 9,9,#0ABAFA
+First Time Fix,Score 8,8,#0ABAFA
+First Time Fix,Score 7,6,#0ABAFA
+First Time Fix,Score 6,5,#0ABAFA
+First Time Fix,Score 5,1,#0ABAFA
+First Time Fix,Score 4,0,#0ABAFA
+First Time Fix,Score 3,0,#0ABAFA
+First Time Fix,Score 2,0,#0ABAFA
+First Time Fix,Score 1,0,#0ABAFA
+First Time Fix,Score 0,1,#0ABAFA
+Ease of Access,NA,1,#B724ED
+Ease of Access,Score 10,15,#B724ED
+Ease of Access,Score 9,3,#B724ED
+Ease of Access,Score 8,9,#B724ED
+Ease of Access,Score 7,0,#B724ED
+Ease of Access,Score 6,0,#B724ED
+Ease of Access,Score 5,3,#B724ED
+Ease of Access,Score 4,0,#B724ED
+Ease of Access,Score 3,0,#B724ED
+Ease of Access,Score 2,0,#B724ED
+Ease of Access,Score 1,0,#B724ED
+Ease of Access,Score 0,0,#B724ED
+Ease of Effort,NA,0,#ED00EA
+Ease of Effort,Score 10,28,#ED00EA
+Ease of Effort,Score 9,17,#ED00EA
+Ease of Effort,Score 8,11,#ED00EA
+Ease of Effort,Score 7,3,#ED00EA
+Ease of Effort,Score 6,0,#ED00EA
+Ease of Effort,Score 5,2,#ED00EA
+Ease of Effort,Score 4,0,#ED00EA
+Ease of Effort,Score 3,0,#ED00EA
+Ease of Effort,Score 2,0,#ED00EA
+Ease of Effort,Score 1,0,#ED00EA
+Ease of Effort,Score 0,1,#ED00EA
+Remote Diagnostic,NA,0,#7D19FF
+Remote Diagnostic,Score 10,1,#7D19FF
+Remote Diagnostic,Score 9,1,#7D19FF
+Remote Diagnostic,Score 8,4,#7D19FF
+Remote Diagnostic,Score 7,2,#7D19FF
+Remote Diagnostic,Score 6,0,#7D19FF
+Remote Diagnostic,Score 5,2,#7D19FF
+Remote Diagnostic,Score 4,0,#7D19FF
+Remote Diagnostic,Score 3,0,#7D19FF
+Remote Diagnostic,Score 2,0,#7D19FF
+Remote Diagnostic,Score 1,0,#7D19FF
+Remote Diagnostic,Score 0,0,#7D19FF
+Remote Overall Sat,NA,0,#0800E6
+Remote Overall Sat,Score 10,15,#0800E6
+Remote Overall Sat,Score 9,2,#0800E6
+Remote Overall Sat,Score 8,8,#0800E6
+Remote Overall Sat,Score 7,13,#0800E6
+Remote Overall Sat,Score 6,11,#0800E6
+Remote Overall Sat,Score 5,8,#0800E6
+Remote Overall Sat,Score 4,0,#0800E6
+Remote Overall Sat,Score 3,0,#0800E6
+Remote Overall Sat,Score 2,0,#0800E6
+Remote Overall Sat,Score 1,0,#0800E6
+Remote Overall Sat,Score 0,0,#0800E6
+Parts Ship & availability,NA,0,#00FFCC
+Parts Ship & availability,Score 10,3,#00FFCC
+Parts Ship & availability,Score 9,2,#00FFCC
+Parts Ship & availability,Score 8,4,#00FFCC
+Parts Ship & availability,Score 7,1,#00FFCC
+Parts Ship & availability,Score 6,0,#00FFCC
+Parts Ship & availability,Score 5,0,#00FFCC
+Parts Ship & availability,Score 4,0,#00FFCC
+Parts Ship & availability,Score 3,1,#00FFCC
+Parts Ship & availability,Score 2,0,#00FFCC
+Parts Ship & availability,Score 1,0,#00FFCC
+Parts Ship & availability,Score 0,2,#00FFCC
+Tech Ability,NA,0,#FF6600
+Tech Ability,Score 10,1,#FF6600
+Tech Ability,Score 9,0,#FF6600
+Tech Ability,Score 8,1,#FF6600
+Tech Ability,Score 7,0,#FF6600
+Tech Ability,Score 6,0,#FF6600
+Tech Ability,Score 5,0,#FF6600
+Tech Ability,Score 4,0,#FF6600
+Tech Ability,Score 3,0,#FF6600
+Tech Ability,Score 2,0,#FF6600
+Tech Ability,Score 1,0,#FF6600
+Tech Ability,Score 0,0,#FF6600
+Kept Informed,NA,0,#875223
+Kept Informed,Score 10,0,#875223
+Kept Informed,Score 9,0,#875223
+Kept Informed,Score 8,0,#875223
+Kept Informed,Score 7,0,#875223
+Kept Informed,Score 6,0,#875223
+Kept Informed,Score 5,0,#875223
+Kept Informed,Score 4,1,#875223
+Kept Informed,Score 3,0,#875223
+Kept Informed,Score 2,0,#875223
+Kept Informed,Score 1,0,#875223
+Kept Informed,Score 0,0,#875223
+Solution Time,NA,0,#666699
+Solution Time,Score 10,2,#666699
+Solution Time,Score 9,0,#666699
+Solution Time,Score 8,1,#666699
+Solution Time,Score 7,0,#666699
+Solution Time,Score 6,0,#666699
+Solution Time,Score 5,2,#666699
+Solution Time,Score 4,1,#666699
+Solution Time,Score 3,0,#666699
+Solution Time,Score 2,1,#666699
+Solution Time,Score 1,0,#666699
+Solution Time,Score 0,3,#666699
+Overall Satisfaction,NA,0,#478068
+Overall Satisfaction,Score 10,10,#478068
+Overall Satisfaction,Score 9,2,#478068
+Overall Satisfaction,Score 8,8,#478068
+Overall Satisfaction,Score 7,12,#478068
+Overall Satisfaction,Score 6,3,#478068
+Overall Satisfaction,Score 5,7,#478068
+Overall Satisfaction,Score 4,0,#478068
+Overall Satisfaction,Score 3,0,#478068
+Overall Satisfaction,Score 2,0,#478068
+Overall Satisfaction,Score 1,0,#478068
+Overall Satisfaction,Score 0,0,#478068
+Likelihood to Recommend,NA,0,#9999CC
+Likelihood to Recommend,Score 10,15,#9999CC
+Likelihood to Recommend,Score 9,2,#9999CC
+Likelihood to Recommend,Score 8,8,#9999CC
+Likelihood to Recommend,Score 7,13,#9999CC
+Likelihood to Recommend,Score 6,11,#9999CC
+Likelihood to Recommend,Score 5,8,#9999CC
+Likelihood to Recommend,Score 4,0,#9999CC
+Likelihood to Recommend,Score 3,0,#9999CC
+Likelihood to Recommend,Score 2,0,#9999CC
+Likelihood to Recommend,Score 1,0,#9999CC
+Likelihood to Recommend,Score 0,0,#9999CC
